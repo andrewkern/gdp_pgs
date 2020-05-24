@@ -1,0 +1,7 @@
+jupyter
+numpy
+seaborn
+scipy
+limix
+h5py
+folium
