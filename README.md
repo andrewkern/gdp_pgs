@@ -18,3 +18,6 @@ conda create --name gdp --file requirements/conda.txt
 that should set up the `conda` environment for you to run
 the notebook I've provided. 
 
+## Acknowledgements
+The idea for GWAS on GDP came from my troll-like muse, Matt Hahn
+
